@@ -7,6 +7,10 @@ A Python-based Computer Vision project that performs real-time face detection an
 ## 📌 Project Overview
 This project fulfills the Computer Vision assignment task by implementing real-time face recognition. It leverages OpenCV's pre-trained Haar Cascade XML model (`haarcascade_frontalface_default.xml`) to identify facial features efficiently with minimal processing overhead.
 
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ecf2582f-fab9-4431-8641-9c23887390a2" />
+
+
 ---
 
 ## 🛠️ Features
